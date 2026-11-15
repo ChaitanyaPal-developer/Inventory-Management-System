@@ -159,24 +159,24 @@ All eight API endpoints were tested using Postman.
 
 ### Postman Screenshots
 
-Add your screenshots below:
+Add your Screenshots below:
 
 1. Create Product — `POST`
-![Create Product](screenshots/create-product.png)
+![Create Product](Screenshots/create-product.png)
 2. Get All Products — `GET`
-![Get All Products](screenshots/get-all-products.png)
+![Get All Products](Screenshots/get-all-products.png)
 3. Get Product by ID — `GET`
-![Get Product By ID](screenshots/get-product-by-id.png)
+![Get Product By ID](Screenshots/get-product-by-id.png)
 4. Update Product — `PUT`
-![Update Product](screenshots/update-product.png)
+![Update Product](Screenshots/update-product.png)
 5. Adjust Stock — `PATCH`
-![Adjust Stock](screenshots/adjust-stock.png)
+![Adjust Stock](Screenshots/adjust-stock.png)
 6. Delete Product — `DELETE`
-![Delete Product](screenshots/delete-product.png)
+![Delete Product](Screenshots/delete-product.png)
 7. Low-Stock Report — `GET`
-![Low Stock Report](screenshots/low-stock.png)
+![Low Stock Report](Screenshots/low-stock.png)
 8. Category-wise Summary — `GET
-`![Category Summary](screenshots/category-summary.png)
+`![Category Summary](Screenshots/category-summary.png)
 
 
 
